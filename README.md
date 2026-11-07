@@ -89,6 +89,21 @@ If I continue developing the prototype, I would like to:
 
 This is an early proof of concept built with sample training material. It has not been deployed in an organisation or tested with real learners.
 
+## Project Resources
+
+- [View the Make.com automation scenario](https://eu1.make.com/public/shared-scenario/ZVzfEopDbmS/ai-learning-content-studio-content-gen)
+- [View the Google Sheets project tracker](https://docs.google.com/spreadsheets/d/1p9UWVo3R98E-SS_ljw_JE4iEeZ_5ukOU-Gq7B5cL1DQ/edit?usp=sharing)
+
+## Project Documentation
+
+- [AI content generation prompt](documentation/ai-prompt.md)
+- [Workflow explanation](documentation/workflow-explanation.md)
+- [Quality review framework](documentation/quality-review-framework.md)
+
+## Screenshots
+
+See the [screenshots folder](screenshots/) for the automation workflow, generated content, quality review and impact metrics.
+
 The aim is to demonstrate the workflow and explore its potential, rather than present it as a finished product.
 
 ---
