@@ -26,14 +26,16 @@ It also includes a quality review tracker and an impact metrics sheet.
 
 The prototype connects three modules:
 
-1. **Google Sheets:** Holds the source training material and relevant information.
-2. **Make.com:** Watches for new source material and passes it to the AI prompt.
-3. **Make AI Toolkit:** Generates the learning content, which is then saved back into Google Sheets.
+1. Google Sheets: Holds the source training material and relevant information.
+2. Make.com:Watches for new source material and passes it to the AI prompt.
+3. Make AI Toolkit: Generates the learning content, which is then saved back into Google Sheets.
 
 The workflow is:
 
 `Source material → AI prompt → Generated learning content → Human review`
+## Explore the workflow
 
+[View the AI Learning Content Studio scenario on Make.com](https://eu1.make.com/public/shared-scenario/ZVzfEopDbmS/ai-learning-content-studio-content-gen)
 ## Tools used
 
 - Make.com – workflow automation
